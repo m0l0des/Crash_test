@@ -9,7 +9,7 @@
   <tr>
     <td style="text-align: center; border: none; height: 45em;">
         <h2>
-            "Подготовка к демо эказамену" <br/>
+            "Подготовка к демо экзамену" <br/>
             для группы И-41
         <h2>
     </td>
