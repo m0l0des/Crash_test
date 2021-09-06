@@ -49,7 +49,7 @@ SELECT
 FROM [dbo].[products_k_import$]
 ```
 
-## заполнение таблицы продукты:
+## заполнение таблицы product:
 
 ```sql
 USE [mloginov]
