@@ -1,4 +1,4 @@
-
+ь
 <table style="width: 100%;">
   <tr>
     <td style="text-align: center; border: none;"> 
@@ -35,7 +35,7 @@
 	
 # Диаграмма UseCase 
 
-![Use case](./img/UseCase.png)
+![Use case](./img/UseCase.bmp)
 
 ## заполнение таблицы productType:
 
