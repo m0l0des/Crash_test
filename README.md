@@ -32,6 +32,12 @@
 </table>
 
 <div style="page-break-after: always;"></div>
+	
+# Диаграмма UseCase 
+
+![Use case](./img/UseCase.png)
+
+## заполнение таблицы productType:
 
 	
 # sql запросы 
